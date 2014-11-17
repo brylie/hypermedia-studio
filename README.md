@@ -18,5 +18,9 @@ Direct manipulation
 -------------------
 Make it easy to work directly with the medium. Don't force the user through layers of complexity and disconnected interfaces.
 
+Don't Repeat Yourself / Proudly Not Invented Here
+----------
+Build on existing components. Reuse components, content, etc. Encourage nesting, inclusion, etc.
+
 
 
