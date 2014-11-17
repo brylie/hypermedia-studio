@@ -22,5 +22,8 @@ Don't Repeat Yourself / Proudly Not Invented Here
 ----------
 Build on existing components. Reuse components, content, etc. Encourage nesting, inclusion, etc.
 
+Keep it Open
+-----------
+Protect the sourcecode, perserve access for all. Develop and document in the open.
 
 
